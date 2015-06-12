@@ -21,3 +21,4 @@ print txt_again.read()
 #This closes the files you opened
 txt.close()
 txt_again.close()
+
